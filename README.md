@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/saisindhusha/App_Deploy_Test
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
